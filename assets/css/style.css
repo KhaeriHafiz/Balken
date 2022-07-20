@@ -1616,3 +1616,24 @@ section {
 #footer .credits a:hover {
   color: #009961;
 }
+
+/* Document */
+.button-doc {
+  margin-left: auto;
+  padding: 10px 10px;
+  background-color: var(--blues-ss);
+  color: #fff;
+  font-weight: bold;
+  font-size: 0.7rem;
+  border-radius: 50px;
+}
+
+.button-doc:hover {
+  margin-left: auto;
+  padding: 10px 10px;
+  background-color: var(--blues-hover);
+  color: #fff;
+  font-weight: bold;
+  font-size: 0.7rem;
+  border-radius: 50px;
+}
